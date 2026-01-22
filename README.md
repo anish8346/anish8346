@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Anish 👋
 
-<!--
-**anish8346/anish8346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Web Developer | Learning DSA & Full Stack 🚀
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=anish8346&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ About Me
+
+- 🎓 B.Tech Computer Science Engineering student  
+- 💻 Learning **Full Stack Development (React, Node, Next.js)**  
+- 📚 Practicing **DSA in Java**  
+- 🔐 Interested in **System Design & Secure Applications**  
+- 🛠️ Building real-world university & personal projects  
+- 🤝 Open to internships, collaborations & learning opportunities  
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** Java, JavaScript, Python  
+- **Frontend:** HTML, CSS, React, Next.js  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB, PostgreSQL  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 **University Management System** – Full stack role-based system  
+- 🔹 **AI Trip Planner** – Smart travel planning using AI  
+- 🔹 **Authentication System** – Secure login & authorization  
+
+---
+
+## 📊 GitHub Stats
+
+![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anish8346&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anish8346&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: *(add link here)*
+- 📧 Email: *(kumaranish68346@gmail.com)*
+
