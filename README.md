@@ -1,50 +1,66 @@
-# Hi there, I'm Anish 👋
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Anish Kumar</h1>
+<h3 align="center">B.Tech CSE | Full Stack Developer | DSA Learner</h3>
 
-### B.Tech CSE Student | Web Developer | Learning DSA & Full Stack 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anish8346&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=anish8346&color=blue)
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;DSA+in+Java;Building+Real+World+Projects;Future+Software+Engineer" />
+</p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🚀 About Me
 
-- 🎓 B.Tech Computer Science Engineering student  
-- 💻 Learning **Full Stack Development (React, Node, Next.js)**  
-- 📚 Practicing **DSA in Java**  
+- 🎓 B.Tech Computer Science Engineering (5th Semester)  
+- 💻 Full Stack Developer (React, Next.js, Node.js)  
+- 📚 Learning **DSA in Java** for placements  
 - 🔐 Interested in **System Design & Secure Applications**  
-- 🛠️ Building real-world university & personal projects  
-- 🤝 Open to internships, collaborations & learning opportunities  
+- 🛠️ Working on **University Management System**  
+- 🤝 Open for internships & collaborations  
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages:** Java, JavaScript, Python  
-- **Frontend:** HTML, CSS, React, Next.js  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB, PostgreSQL  
-- **Tools:** Git, GitHub, VS Code  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nextjs,nodejs,express,mongodb,postgres,git,github" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 **University Management System** – Full stack role-based system  
-- 🔹 **AI Trip Planner** – Smart travel planning using AI  
-- 🔹 **Authentication System** – Secure login & authorization  
+| Project | Description |
+|-------|------------|
+| 🎓 **University Management System** | Role-based full stack system |
+| ✈️ **AI Trip Planner** | AI powered travel planning app |
+| 🔐 **Authentication System** | Secure login & authorization |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anish8346&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anish8346&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anish8346&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anish8346&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish8346&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔗 Connect With Me
+## 🤝 Connect With Me
 
-- 💼 LinkedIn: *([add link here](https://www.linkedin.com/in/anish-kumar-891925359/))*
-- 📧 Email: *(kumaranish68346@gmail.com)*
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/anish-kumar-891925359/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kumaranish68346@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
