@@ -17,7 +17,7 @@
 
 - 🎓 B.Tech Computer Science Engineering (5th Semester)  
 - 💻 Full Stack Developer (React, Next.js, Node.js)  
-- 📚 Learning **DSA in Java** for placements  
+- 📚 Learning **DSA in Java & C++** for placements  
 - 🔐 Interested in **System Design & Secure Applications**  
 - 🛠️ Working on **University Management System**  
 - 🤝 Open for internships & collaborations  
@@ -61,6 +61,10 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anish-kumar-891925359/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kumaranish68346@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anish-kumar-891925359/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kumaranish68346@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kumaranish68346@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
