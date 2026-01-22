@@ -45,6 +45,6 @@
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: *(add link here)*
+- 💼 LinkedIn: *([add link here](https://www.linkedin.com/in/anish-kumar-891925359/))*
 - 📧 Email: *(kumaranish68346@gmail.com)*
 
